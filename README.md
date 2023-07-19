@@ -12,6 +12,7 @@
 
 <br>
 
+- I am a computer science student based in Egypt. I am passionate about programming and enjoy exploring new technologies.
 
 ## 💻 Skills
 

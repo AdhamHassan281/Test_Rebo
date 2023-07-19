@@ -4,12 +4,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=30&center=true&vCenter=true&width=435&lines=Welcome+To+My+Github+Profile;Computer+Science+Student%F0%9F%92%BB;Always+Learning+New+Things" /></a>
 </p>
 
-
 <br>
 
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
-**About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width = 350px></picture>
 

@@ -6,13 +6,13 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width = 350px></picture>
 
 <br>
 
-- I am a computer science student based in Egypt. I am passionate about programming and enjoy exploring new technologies.
+#- I am a computer science student based in Egypt. I am passionate about programming and enjoy exploring new technologies.
 
 ## 💻 Skills
 

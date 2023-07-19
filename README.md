@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adham Elagaty</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=30&width=435&lines=Welcome+To+My+Github+Profile;Computer+Science+Student%F0%9F%92%BB;Always+Learning+New+Things" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=30&center=true&vCenter=true&width=435&lines=Welcome+To+My+Github+Profile;Computer+Science+Student%F0%9F%92%BB;Always+Learning+New+Things" /></a>
 </p>
 
 

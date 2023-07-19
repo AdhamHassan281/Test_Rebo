@@ -6,7 +6,7 @@
 
 <br>
 
-<img width="250" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+<img width="250" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 
 ## 💻 Skills
 

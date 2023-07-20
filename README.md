@@ -21,7 +21,7 @@
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2>
 
-
+<br>
 
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">      
 <a href="https://github.com/AdhamElagaty">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AdhamHassan281&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AdhamElagaty&show_icons=true&theme=gruvbox&hide_border=true" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamElagaty&theme=gruvbox&hide_border=true" />
 </a>
 </p>
